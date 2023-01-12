@@ -1,0 +1,12 @@
+using Back.src.ProEventos.API.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace Back.src.ProEventos.API.Data
+{
+    public class DataContext : DbContext 
+    {
+        public DataContext(DbContextOptions<DataContext> options) : base() {}
+        
+        public DbSet<Evento> Eventos { get; set; }
+    }
+}
