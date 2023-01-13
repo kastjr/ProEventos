@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {}
+    "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {
+    "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
         "projectName": "Proeventos.API",
-        "projectPath": "c:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
+        "projectPath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
         "packagesPath": "C:\\Users\\kasti\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kasti\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -82,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
