@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {}
+    "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\area_de_trabalhoo\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {
+    "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\area_de_trabalhoo\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\area_de_trabalhoo\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
         "projectName": "Proeventos.API",
-        "projectPath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
+        "projectPath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\area_de_trabalhoo\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
         "packagesPath": "C:\\Users\\kasti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\area_de_trabalhoo\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kasti\\AppData\\Roaming\\NuGet\\NuGet.Config"

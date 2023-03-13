@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Fm6LtJjUQ+Sp5BRscDAtkQ1MIKnnHMkNGL2hddBl66uC2kKfZ3aGevIzmvgdTHPHP1T4pZOA7DiqF75Ku03IQ==",
+  "dgSpecHash": "RGsX6efa1LesE235u9EpjSRWHmpVLxEcQEqTyfBBzB+kwYUNTHIRt/s4+ysex8GzLrTF32msOQ04Rc55jZMRpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
+  "projectFilePath": "C:\\Users\\kasti\\OneDrive\\Área de Trabalho\\area_de_trabalhoo\\ProEventos\\Back\\src\\ProEventos.API\\Proeventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kasti\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kasti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
