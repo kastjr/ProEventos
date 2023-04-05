@@ -112,3 +112,9 @@ C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\Back\src\
 C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ref\Proeventos.API.dll
 C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\Proeventos.API.pdb
 C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\Proeventos.API.genruntimeconfig.cache
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb

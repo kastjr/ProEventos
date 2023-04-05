@@ -1,0 +1,15 @@
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Users\kasti\OneDrive\Área de Trabalho\area_de_trabalhoo\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
